@@ -6,6 +6,8 @@
 
 🎬**Demo Video**: <https://youtu.be/mWHImz_D8vs>
 
+For the Prediction Model to work you should start the server side on your local system as it is not hosted anywhere.
+
 | Description |
 -----------
 Web3 is currently a hot topic in the market. Even more important is how stable crypto currencies are and what their future price will be.
