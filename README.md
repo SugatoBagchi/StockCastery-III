@@ -2,7 +2,7 @@
 
 [![Screenshot-2022-08-21-175518.png](https://i.postimg.cc/xTzdz3JG/Screenshot-2022-08-21-175518.png)](https://postimg.cc/0b9xgmCr)
 
-**Live Demo**: <https://stockcastery-sugatobagchi-dsecacin.vercel.app/>
+**Live Demo**: <https://stockcastery-iii.subhanjandutta.repl.co/>
 
 🎬**Demo Video**: <https://youtu.be/mWHImz_D8vs>
 
