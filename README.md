@@ -4,7 +4,7 @@
 
 **Live Demo**: <https://stockcastery-sugatobagchi-dsecacin.vercel.app/>
 
-🎬**Demo Video**: <https://youtu.be/etgQVUZ9riQ>
+🎬**Demo Video**: <https://youtu.be/mWHImz_D8vs>
 
 | Description |
 -----------
