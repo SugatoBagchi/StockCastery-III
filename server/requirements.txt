@@ -11,3 +11,4 @@ yahoo_fin
 yfinance
 sklearn
 flask_limiter
+pytorch
